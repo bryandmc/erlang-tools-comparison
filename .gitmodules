@@ -1,0 +1,18 @@
+[submodule "erlfmt"]
+	path = erlfmt
+	url = git@github.com:WhatsApp/erlfmt.git
+[submodule "rebar3_format"]
+	path = rebar3_format
+	url = git@github.com:AdRoll/rebar3_format.git
+[submodule "steamroller"]
+	path = steamroller
+	url = git@github.com:old-reliable/steamroller
+[submodule "erlang-formatter"]
+	path = erlang-formatter
+	url = git@github.com:fenollp/erlang-formatter
+[submodule "elvis"]
+	path = elvis
+	url = git@github.com:inaka/elvis
+[submodule "erlang_ls"]
+	path = erlang_ls
+	url = git@github.com:erlang-ls/erlang_ls
